@@ -1,9 +1,5 @@
 # TCC
 Mineração de Dados em Florestas Artificiais
 
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: [The title of your site]
+description: [A short description of your site's purpose]
